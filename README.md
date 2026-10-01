@@ -9,12 +9,12 @@ This is also an exercise in **Git collaboration**: organizing work with issues, 
 
 Form a group of **four**. Choose a **project lead** and assign one topic to each member. The lead also owns a topic.
 
-| Topic | Required Pages | Owner |
+| Topic | Required Pages | Owner | Folder |
 |---|---:|---|
-| [Brand Archetypes](archetypes/README.md) | 12 archetypes | TBD |
-| [Principles of Persuasion](persuasion/README.md) | 7 principles | TBD |
-| [Modernist Design](modernism/README.md) | 6 styles | TBD |
-| [Postmodernist Design](postmodernism/README.md) | 6 styles | TBD |
+| [Brand Archetypes](archetypes/README.md) | 12 archetypes | Jose | `archetypes/` |
+| [Principles of Persuasion](persuasion/README.md) | 7 principles | Vincent | `persuasion/` |
+| [Modernist Design](modernism/README.md) | 6 styles | Safwaan | `modernism/` |
+| [Postmodernist Design](postmodernism/README.md) | 6 styles | Konrad | `postmodernism/` |
 
 **The project lead:**
 - Creates the shared repository, invites teammates as collaborators, and ensures everyone can clone it.
@@ -44,7 +44,12 @@ The project lead adds each member’s name, archetype, and page link below.
 
 ## 3. Assignment Two: Create a Sample Page
 
-Each member creates **one complete sample page** for their assigned topic—for example, Explorer, Unity, or a selected design style.
+| Name | Role | Archetype | Profile Link |
+| :--- | :--- | :--- | :--- |
+| **Safwaan Arif** | Project Lead | Pending | [Profile](members/safwaan_arif.md) |
+| [Teammate 1 Name] | Contributor | Pending | Pending PR |
+| [Teammate 2 Name] | Contributor | Pending | Pending PR |
+| [Teammate 3 Name] | Contributor | Pending | Pending PR |
 
 Have it ready for the next class. Review the samples together and agree on a reusable format **before producing the remaining pages**.
 
