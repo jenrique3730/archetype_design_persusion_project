@@ -4,11 +4,8 @@ Modernism centers on rationality, functionalism, objective typography, and the d
 
 ## Modernist Styles Index
 1. [International Typographic Style (Swiss Style)](swiss_style.md)
-2. Bauhaus *(Upcoming)*
-3. Constructivism *(Upcoming)*
-4. De Stijl *(Upcoming)*
-5. Mid-Century Modern *(Upcoming)*
-6. Minimalism *(Upcoming)*
+2. [Bauhaus](bauhaus.md)
+3. [Minimalism](minimalism.md)
 
 ---
 [← Back to Main Project Guide](../README.md)
